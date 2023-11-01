@@ -1,0 +1,9 @@
+{
+	"name": "adfdejgrp22023",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce9f8535-a1ab-4bbd-92a8-50bd7b93436c",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
